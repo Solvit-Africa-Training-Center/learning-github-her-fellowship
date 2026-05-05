@@ -2,4 +2,4 @@
  - Irene
 
  - Fabrice Ryan
- - Cynthia
+ - Teta-Dianah
