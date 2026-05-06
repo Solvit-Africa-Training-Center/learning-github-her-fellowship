@@ -4,4 +4,5 @@
  - Teta-Dianah
  - Evodie
  - Divine
- - Ingabire Cynthia
+ - Cynthia
+ 
