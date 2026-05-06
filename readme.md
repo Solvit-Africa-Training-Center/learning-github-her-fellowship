@@ -4,4 +4,4 @@
  - Fabrice Ryan
  - Teta-Dianah
  - Evodie
- 
+ - Divine
