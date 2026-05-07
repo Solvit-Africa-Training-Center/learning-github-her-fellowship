@@ -2,6 +2,7 @@
  - Irene
 
  - Fabrice Ryan
+ - Mariam
  - Teta-Dianah
  - Evodie
  - Divine
